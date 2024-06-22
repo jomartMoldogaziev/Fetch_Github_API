@@ -11,7 +11,7 @@ background-color: #0da2e7;
 body.searched {
   background: radial-gradient(#2b00ff 0%, #000000 100%);
   background-repeat: no-repeat;
-  height: 800px;
+  height: 900px;
   /* background-image: none;  */
 }
  
